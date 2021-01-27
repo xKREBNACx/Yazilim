@@ -15,7 +15,7 @@ namespace OOP2
             
 
             TuzelMusteri musteri2 = new TuzelMusteri();
-            musteri2.Id = 1;
+            musteri2.Id = 2;
             musteri2.MusteriNo = "12345";
             musteri2.SirketAdi = "kodlama.io";
             musteri2.VergiNo = "1234567890";
